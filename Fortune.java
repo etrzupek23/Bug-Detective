@@ -1,3 +1,8 @@
+/*
+This program was created to practice debugging code
+Edited by Emma on April 3rd, 2020
+Intermediate Programming - Block 8
+*/
 import java.lang.Math;
 
 class Fortune {
